@@ -48,7 +48,3 @@
 <a href="https://wa.me/5553999750027" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunacquaresma/brunacquaresma/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunacquaresma/brunacquaresma/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brunacquaresma/brunacquaresma/output/github-contribution-grid-snake.svg">
-

@@ -1,7 +1,7 @@
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-<p align="center">I ❤️ tech. <br><br> Olá! Me chamo Bruna Carolyne, sou <strong>apaixonada em aprender coisas novas</strong> e usá-las para criar soluções de alta qualidade.<br> Atualmente, sou uma desenvolvedora <strong>Front-end a caminho de se tornar Full-stack</strong>.</p>&nbsp;
+<p align="center">I ❤️ tech. <br><br> Hi! Me chamo Bruna Carolyne, sou <strong>apaixonada em aprender coisas novas</strong> e usá-las para criar soluções de alta qualidade.<br> Atualmente, sou uma desenvolvedora <strong>Front-end a caminho de se tornar Full-stack</strong>.</p>&nbsp;
 </div>
 
 <div align="center">
